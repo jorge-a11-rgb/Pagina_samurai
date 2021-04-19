@@ -29,7 +29,7 @@ body{
     
 
 }
-.navegacion{
+.section{
     text-align: center;
     background-color: black;
     width: 1000px;
@@ -95,4 +95,15 @@ footer img{
     width: 1000px;
     height:110px;
     text-align: center;
+}
+.container-xxl h2 {
+    color: rgb(212, 14, 14);
+}
+.container-xxl{
+    background-color: black;
+} 
+.container-xxl h2{
+    color: rgb(4, 112, 207);
+    text-align: center;
+     height: 110px;
 }
