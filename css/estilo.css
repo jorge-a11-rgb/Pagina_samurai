@@ -13,5 +13,86 @@ body{
 .container-lg h1{
     color: aliceblue;
     text-align: center;
+    
 
+}
+.navegacion ul li a{
+    color: aliceblue;
+    flex-grow: initial;
+    text-align: center;
+    
+
+}
+.navegacion ul li{
+    color: aliceblue;
+    flex-grow: initial;
+    
+
+}
+.navegacion{
+    text-align: center;
+    background-color: black;
+    width: 1000px;
+    height:70px;
+}
+.d-block{
+    background-size: 50%
+}
+footer img{
+    text-align: center;
+    float: right;
+}
+.navegacion h1{
+    color: aliceblue;
+
+}
+.d-block{
+    background-size: 30%
+}
+.derecha{
+    float: right;
+    width: 250px;
+}
+.izquierda{
+    float: left;
+    width:  200px;
+}
+.navegacion {
+    display: flex;
+    flex-flow: row wrap;
+    /*fila respeta ancho*/
+    font-weight: bold;
+    text-align: center;
+}
+.nav-item a{
+    list-style-type: armenian;
+}
+.navegacion ul li{
+    list-style: georgian;
+    display: inline-block;
+    text-align: center;
+    position: inherit;
+    margin: auto;
+
+
+}
+.navegacion ul li a{
+    display: block;
+    padding: 15px 20px;
+    text-align: center;
+}
+.navegacion ul li a:hover{
+    color: brown;
+
+}
+.container-xl h1{
+    color: aliceblue;
+    text-align: center;
+}
+.nav-item h2{
+    color: rgb(255, 255, 255);
+    background-color: black;
+    width: 1000px;
+    height:110px;
+    text-align: center;
 }
