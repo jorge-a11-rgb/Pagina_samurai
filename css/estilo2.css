@@ -1,0 +1,26 @@
+body{
+
+    background-image: url(https://i.pinimg.com/originals/64/cb/b1/64cbb1a06e33fc894ec118638f5c6e14.jpg);
+     background-size: 150%;
+}
+.form-group label{
+    color: aliceblue;
+   
+}
+footer a{
+    color: aliceblue;
+    text-align: right;
+}
+footer{
+    text-align: center;
+}
+.logo{
+    text-align: center;
+}
+.Titulo2 h1{
+    color: aliceblue;
+    text-align: center;
+}
+.container{
+    background-size: 150%
+}

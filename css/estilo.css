@@ -1,0 +1,17 @@
+body{
+
+    background-image: url(https://www.frikipandi.com/wp-content/uploads/2020/03/FFVIIR_TGS-2019_Artwork_1568210291-1.jpg);
+     background-size: 100%
+}
+.logo{
+    text-align: center;
+}
+.lateral ul li a{
+    color: aliceblue;
+    text-align: center;
+}
+.container-lg h1{
+    color: aliceblue;
+    text-align: center;
+
+}
